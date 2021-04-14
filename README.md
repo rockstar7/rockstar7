@@ -2,6 +2,13 @@
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/RanjeetRajpuro6?label=Follow%20Me&style=social)
+---
+
+🧰 Toolbox
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
 <!--
 **rockstar7/rockstar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
